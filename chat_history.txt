@@ -1,0 +1,21 @@
+assistant: How may I help you?
+
+user: hello
+
+assistant:  Hello! It's nice to meet you. Is there something specific you would like to talk about or ask me? I'm here to help with any questions you have to the best of my ability.
+
+user: hello
+
+assistant:  Hello! It's nice to meet you. Is there something specific you would like to talk about or ask me? I'm here to help with any questions you might have about a wide range of topics, including but not limited to:
+
+* Programming and software development
+* Data structures and algorithms
+* Machine learning and artificial intelligence
+* Mathematics and statistics
+* Operating systems and networking
+* Web development and design
+* Cloud computing and virtualization
+* And much more!
+
+I'll do my best to provide clear and concise answers that are easy to understand. If you need further clarification on anything, just let me know and I'll be happy to help.
+
